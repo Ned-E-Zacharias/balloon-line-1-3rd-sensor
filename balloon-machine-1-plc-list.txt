@@ -1,0 +1,26 @@
+balloon-machine-1-plc-list.txt
+====================
+#UNI-24275 - Ticket created successfully
+
+I am trying to add an IO-ATC8 to an existing system.
+Below is a list of the system.
+The IO-ATC8 does not connect (RUN light continues to flash).
+The IO-ATC8 has been added to the hardware configuration in the program.
+The IO-ATC8 has been internally set to match the hardware configuration (channel 1 is 0-10v).
+I have run BUILD ALL and compile and downloaded.
+The IO-ATC8 does not connect (RUN light continues to flash).
+
+
+V200-18-E3XB
+
+V280-18-B20B  SN: GE2000073  V5.04 (B64) HW: A
+
+EXL-CAB100 cable
+EX-A2X  SN: MJ39R0229
+IO-DI16
+IO-RO16
+IO-ATC8  SN: T8J26A0R037
+
+===================
+
+unitronics
