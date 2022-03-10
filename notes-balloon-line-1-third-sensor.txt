@@ -1,0 +1,60 @@
+notes-balloon-line-1-third-sensor.txt
+
+
+
+2 sensor
+original wiring
+             console                                                  servo cabinet
+
+top sensor ------white wire---> latch----> servo, clear insulation--->118, 18 on servo
+bottom sensor----white wire--->----------- servo, black insulation--->117, 17 on servo
+
+third sensor  not connected
+
+
+
+
+
+
+3 sensor
+             console                                                  servo cabinet
+
+top sensor ------white wire---> --------------------------------------@IN(6)                        
+bottom sensor----white wire--->----------- servo, black insulation--->117, 17 on servo
+
+third sensor-----white wire---> latch----> servo, clear insulation--->118, 18 on servo
+
+
+
+JZSP-CKIOD-D50
+SMC3010
+YEA-SIA-SMC
+
+
+
+REPEAT               10.5    inches
+newdpi                9.5    inches
+oldDPI needed         4.85   inches
+fractional repeats    9.1    inches
+
+9.1-(10.5-9.5)
+9.1-(1)        =8.1
+
+one eyespot is on new sensor
+we have 4.8667 repeats between sensors
+the last eyespot is 4 repeats back from the front sensor
+the last eyespot is 42 inches back from the front sensor
+the last eyespot is 51.1-42 inches past back sensor
+the last eyespot is 9.1 inches past back sensor
+
+one eyespot is 9.1 inches past new sensor
+we have 4.8667 repeats between sensors
+	the last eyespot is 4 repeats minus( 9.1 plus fraction) inches back from the front sensor
+	the last eyespot is 4 repeats minus (9.1 plus 9.1 ) inches back from the front sensor
+	the last eyespot is 42 inches back from the front sensor
+	the last eyespot is 51.1-42 inches past back sensor
+the last eyespot is 9.1 plus 9.1 inches past back sensor
+the last eyespot is 18.2 inches past back sensor
+the last eyespot is 18.2 inches minus 10.5 inches past back sensor
+the last eyespot is 7.7 inches  past back sensor..............................wrong
+

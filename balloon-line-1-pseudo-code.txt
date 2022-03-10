@@ -1,0 +1,36 @@
+balloon-line-1-pseudo-code.txt
+
+initialize everything
+
+communicate with Unitronics
+
+wait for command and compute 
+
+
+
+simple moves
+
+
+
+registration move
+#REGMOVE
+
+initialize for registration
+
+
+begin motion
+
+start a big loop
+
+look for top eyespot     @IN(6)
+	record encoder
+look for bottom eyespot  @IN(2)
+	record encoder
+look for third eyespot   ALX
+
+
+
+If we have seen top and bottom compute difference
+
+
+

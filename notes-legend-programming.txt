@@ -1,0 +1,29 @@
+
+
+to change program 
+	send program to controller (up arrow)
+	BP
+	Power cycle
+
+
+AD (After Distance)
+AM (After Motion)
+BP (Burn Program)
+II (Input Interrupt)
+@IN (Input)
+IP (Increment Positon)
+JP (Jump to Program Location)
+JS (Jump to Subroutine)
+_LF* (Forward Limit)
+LL (List Labels)
+LM (Linear Mode)
+LS (List Program)
+LT (Latch Target)
+LL (List Labels)
+LS (List Program)
+LV (List Variables)
+XQ (Execute Program)
+ED (Edit Mode)
+ST (Stop Motion)
+PR (PRX) (Positon Relative)
+BG (BGX) (Start Motion)
